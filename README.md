@@ -1,6 +1,10 @@
 # node.js
 一个功能丰富的Node.js应用管理Shell脚本
-功能说明：
+
+```
+bash <(curl -sL https://github.com/3981877/node.js/releases/download/1.2/node-manager.sh)
+```
+<img width="697" alt="截屏2025-03-23 20 38 51" src="https://github.com/user-attachments/assets/90364120-aa64-4e5b-bbbb-6a53d586f198" />
 
 功能说明：
 
